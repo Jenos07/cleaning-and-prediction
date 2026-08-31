@@ -255,6 +255,6 @@ The project can be extended by:
 
 ## 👩‍💻 Author
 
-**Subha S M**
+**Jenos**
 
 This project was created as a Python and Machine Learning data preprocessing practice project.
